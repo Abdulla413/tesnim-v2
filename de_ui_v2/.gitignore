@@ -27,3 +27,4 @@ dist-ssr
 node_modules/
 dist/
 de_ui_v2/
+lughets.json
