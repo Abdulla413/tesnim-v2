@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@font-face {
+  font-family: 'Alkatip-Tom';
+  src: url('../src/fonts/ALKATIP-KITAB-TOM.TTF') format('truetype');
+}
+
+@font-face {
+  font-family: 'Alkatip-Kitab';
+  src: url('../src/fonts/ALKATIP-KITAB.TTF') format('truetype');
+ 
+}
+
+
+@theme {
+  --font-display-tom: "Alkatip-Tom", "sans-serif"; 
+    --font-display: "Alkatip-Kitab", "sans-serif"; 
+
+}
+
+
